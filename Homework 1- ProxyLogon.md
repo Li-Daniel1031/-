@@ -3,6 +3,7 @@
 <br>
 ## ProxyLogon嚴重性:<br>
 使用Exchange Server的單位多為政府組織及大型商業組織。Exchange Sever遭駭客攻擊，竊取登入憑證資料，可能對企業造成嚴重損失。<br>
+全球115個國家已有超過5,000台伺服器存在惡意Web Shell<br>
 <br>
 ## DEVCORE 漏洞研究及通報時程:<br>
 2020 年 12 月 10 日：DEVCORE 發現微軟的無需驗證的代理漏洞（CVE-2021-26855）<br>
