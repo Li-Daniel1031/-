@@ -1,2 +1,4 @@
 ProxyLogon:<br>
-微軟（Microsoft）公布了修補遭到駭客攻擊的 Exchange Server 漏洞，全球恐有數萬個組織受到影響。而來自台灣的戴夫寇爾（DEVCORE）則是這次最早揭露此零日漏洞的團隊，其研究人員於1月5日即通報微軟存在於 Exchange Server 的安全漏洞，編號命名為「CVE-2021-26855 」及「CVE-2021-27065」（DEVCORE 團隊稱其為「ProxyLogon」）。
+微軟（Microsoft）公布了修補遭到駭客攻擊的 Exchange Server 漏洞，全球恐有數萬個組織受到影響。而來自台灣的戴夫寇爾（DEVCORE）則是這次最早揭露此零日漏洞的團隊，其研究人員於1月5日即通報微軟存在於 Exchange Server 的安全漏洞，編號命名為「CVE-2021-26855 」及「CVE-2021-27065」（DEVCORE 團隊稱其為「ProxyLogon」）。<br>
+<br>
+ProxyLogon
